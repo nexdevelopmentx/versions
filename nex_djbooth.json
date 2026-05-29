@@ -1,5 +1,5 @@
 {
-    "version": "1.0.2",
-    "release_date": { "day": 28, "month": 5, "year": 2026 },
-    "notes": "DJ booth with custom React UI."
+    "version": "1.0.3",
+    "release_date": { "day": 29, "month": 5, "year": 2026 },
+    "notes": "Maintenance release: bug fixes, stability improvements, and UI overhauls."
 }

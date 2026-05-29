@@ -1,5 +1,5 @@
 {
-    "version": "1.0.0",
-    "release_date": { "day": 28, "month": 5, "year": 2026 },
-    "notes": "Tebex-integrated coin shop / donator system."
+    "version": "1.0.1",
+    "release_date": { "day": 29, "month": 5, "year": 2026 },
+    "notes": "Maintenance release: bug fixes, stability improvements, and UI overhauls."
 }
