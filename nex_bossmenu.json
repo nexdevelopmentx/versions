@@ -1,5 +1,5 @@
 {
-    "version": "1.0.1",
-    "release_date": { "day": 28, "month": 5, "year": 2026 },
-    "notes": "Initial public release of the boss menu."
+    "version": "1.0.2",
+    "release_date": { "day": 29, "month": 5, "year": 2026 },
+    "notes": "Premium animated UI redesign for the boss & admin menus, with configurable accent theming (Config.UI.Accent)."
 }
