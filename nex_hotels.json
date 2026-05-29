@@ -1,5 +1,5 @@
 {
-    "version": "1.0.2",
-    "release_date": { "day": 28, "month": 5, "year": 2026 },
-    "notes": "Hotel system with in-game admin setup."
+    "version": "1.0.3",
+    "release_date": { "day": 29, "month": 5, "year": 2026 },
+    "notes": "Ground-up UI redesign with a configurable accent color and live animations, an auto-installing & self-healing SQL schema, and an admin authorization fix."
 }
