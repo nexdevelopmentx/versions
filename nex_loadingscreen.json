@@ -1,5 +1,5 @@
 {
-    "version": "1.0.3",
-    "release_date": { "day": 28, "month": 5, "year": 2026 },
-    "notes": "Premium FiveM loading screen experience."
+    "version": "1.0.4",
+    "release_date": { "day": 29, "month": 5, "year": 2026 },
+    "notes": "Fixed loading-screen console spam (SendLoadingScreenMessage warnings) after a live resource restart."
 }
