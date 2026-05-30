@@ -1,5 +1,5 @@
 {
-    "version": "1.0.1",
-    "release_date": { "day": 28, "month": 5, "year": 2026 },
-    "notes": "Sleek coordinate tool with multi-format clipboard export."
+    "version": "1.0.2",
+    "release_date": { "day": 30, "month": 5, "year": 2026 },
+    "notes": "Refreshed UI: themeable accent color, a repositionable live HUD (corners or edges), and a cleaner copy panel."
 }
