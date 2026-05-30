@@ -1,5 +1,5 @@
 {
-    "version": "1.0.2",
+    "version": "1.0.2-hotfix1",
     "release_date": { "day": 30, "month": 5, "year": 2026 },
-    "notes": "Premium UI overhaul: faux-glass panels, smooth animations and live effects (ambient backdrop, count-ups, 3D card tilt). Added Config.Theme.AccentColor to recolor the entire UI from one value. Fade in/out on all dialogs. Management menu now has a Back button (returns to admin when opened from Manage) and a single-row tab strip."
+    "notes": "Hotfix: the vehicle list no longer jumps to the bottom when switching categories (it now starts at the top), and the category buttons wrap to multiple rows so every category stays visible and clickable instead of being cut off past the panel edge."
 }
