@@ -1,5 +1,5 @@
 {
-    "version": "1.0.3",
+    "version": "1.0.3-hotfix1",
     "release_date": { "day": 29, "month": 5, "year": 2026 },
-    "notes": "Ground-up UI redesign with a configurable accent color and live animations, an auto-installing & self-healing SQL schema, and an admin authorization fix."
+    "notes": "Hotfix: quieted a misleading 'no citizenid' rental-attach log that could spam ESX server consoles. The message was harmless (the playerLoaded handler still attaches the rental) and is now reworded and gated behind Config.Debug."
 }
