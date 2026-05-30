@@ -1,5 +1,5 @@
 {
-    "version": "1.0.2",
-    "release_date": { "day": 29, "month": 5, "year": 2026 },
-    "notes": "Auto-installing & self-healing SQL schema, Lua-based config, and a redesigned UI with a configurable accent color and live animations."
+    "version": "1.0.3",
+    "release_date": { "day": 30, "month": 5, "year": 2026 },
+    "notes": "Expandable recipe window with batch (craft-x) crafting and item descriptions, per-bench interaction modes plus prop-free zone benches, a self-contained prop placer with an on-screen control HUD, and a refreshed UI with richer surfaces and live animations (configurable accent color)."
 }
