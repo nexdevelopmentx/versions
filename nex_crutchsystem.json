@@ -1,5 +1,5 @@
 {
-    "version": "1.0.1",
+    "version": "1.0.1-hotfix1",
     "release_date": { "day": 29, "month": 5, "year": 2026 },
-    "notes": "Maintenance release: bug fixes, stability improvements, and UI overhauls."
+    "notes": "Fixed install items to markdown."
 }
