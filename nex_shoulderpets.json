@@ -1,5 +1,5 @@
 {
-    "version": "1.0.1",
-    "release_date": { "day": 28, "month": 5, "year": 2026 },
-    "notes": "Shoulder pet menu with framework auto-detection."
+    "version": "1.0.2",
+    "release_date": { "day": 30, "month": 5, "year": 2026 },
+    "notes": "Rebuilt the menu UI on the NEX design system: faux-glass panel, animated edge-light, framer-motion entrance/stagger/tilt, count-up, and a header sheen. The whole UI (including the header sheen) now recolors from Config.General.ui.accent."
 }
