@@ -1,5 +1,5 @@
 {
-    "version": "1.0.0-hotfix1",
+    "version": "1.0.0-hotfix2",
     "release_date": { "day": 29, "month": 5, "year": 2026 },
-    "notes": "Hotfix: added the NEX version-check update notifier."
+    "notes": "Hotfix: shimmer effect fixed."
 }
