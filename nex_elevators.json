@@ -1,5 +1,5 @@
 {
-    "version": "1.0.2",
-    "release_date": { "day": 28, "month": 5, "year": 2026 },
-    "notes": "Premium elevator system with custom UI."
+    "version": "1.0.3",
+    "release_date": { "day": 30, "month": 5, "year": 2026 },
+    "notes": "Complete UI overhaul with config-driven accent theming, an advanced centered admin menu with teleport actions, and self-installing/self-healing SQL."
 }
