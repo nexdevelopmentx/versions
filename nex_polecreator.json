@@ -1,5 +1,5 @@
 {
-    "version": "1.0.0-hotfix2",
-    "release_date": { "day": 29, "month": 5, "year": 2026 },
-    "notes": "Hotfix: shimmer effect fixed."
+    "version": "1.0.0-hotfix3",
+    "release_date": { "day": 2, "month": 6, "year": 2026 },
+    "notes": "Hotfix: removed the aurora glow effect from the NUI backdrop."
 }
