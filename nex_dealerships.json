@@ -1,5 +1,5 @@
 {
-    "version": "1.0.2-hotfix1",
-    "release_date": { "day": 30, "month": 5, "year": 2026 },
-    "notes": "Hotfix: the vehicle list no longer jumps to the bottom when switching categories (it now starts at the top), and the category buttons wrap to multiple rows so every category stays visible and clickable instead of being cut off past the panel edge."
+    "version": "1.0.3",
+    "release_date": { "day": 3, "month": 6, "year": 2026 },
+    "notes": "Test drives now hand the player vehicle keys, so key-enforcing scripts (mk_vehiclekeys, qb-vehiclekeys, etc.) let you actually drive the demo car instead of blocking it. Previously only purchases granted keys."
 }
