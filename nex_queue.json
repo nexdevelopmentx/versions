@@ -1,5 +1,5 @@
 {
-    "version": "1.0.1",
-    "release_date": { "day": 28, "month": 5, "year": 2026 },
-    "notes": "Advanced Discord priority queue with 8+ themes."
+    "version": "1.0.2",
+    "release_date": { "day": 3, "month": 6, "year": 2026 },
+    "notes": "Fixed sv_hostname showing a queue count when the server has open slots and nobody is actually waiting."
 }
