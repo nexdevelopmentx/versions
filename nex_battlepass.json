@@ -1,5 +1,5 @@
 {
-    "version": "1.0.0",
+    "version": "1.0.0-hotfix1",
     "release_date": { "day": 4, "month": 6, "year": 2026 },
-    "notes": "Initial release. Multi-framework battle pass (Qbox / QBCore / ESX) with daily & weekly quests, free + premium reward tracks, a fully in-game rewards editor, and premium activation via Tebex or redemption codes."
+    "notes": "Hotfix 1. Reworked level skipping into a flat-price 'Buy Level' purchase (one level for a configurable cash cost, server-validated), redesigned the upgrade modal with clean level-transition badges, removed native number-input spinner arrows in the admin editor, and fixed glow cut-offs across the battlepass and rewards-editor menus."
 }
