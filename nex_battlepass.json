@@ -1,0 +1,5 @@
+{
+    "version": "1.0.0",
+    "release_date": { "day": 4, "month": 6, "year": 2026 },
+    "notes": "Initial release. Multi-framework battle pass (Qbox / QBCore / ESX) with daily & weekly quests, free + premium reward tracks, a fully in-game rewards editor, and premium activation via Tebex or redemption codes."
+}
