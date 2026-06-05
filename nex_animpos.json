@@ -1,0 +1,5 @@
+{
+    "version": "1.0.0",
+    "release_date": { "day": 5, "month": 6, "year": 2026 },
+    "notes": "Initial release. Standalone animation positioning - freely place your character with no collision snapping, optimized with ox_lib and a custom black & white NUI (configurable on-screen position, Inter font)."
+}
