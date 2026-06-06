@@ -1,5 +1,5 @@
 {
-    "version": "1.0.5",
+    "version": "1.0.6",
     "release_date": { "day": 6, "month": 6, "year": 2026 },
-    "notes": "Locales now load from JSON (en + es shipped). Admins can teleport to any booth from the /djbooth menu, and each booth can have a custom logo URL (e.g. a fivemanage upload) that replaces the menu icon. Database auto-migrates the new logo column on first start."
+    "notes": "UI polish pass: button glows and hover lifts no longer get clipped at panel edges, the admin header is icon-free, and the booth header only shows a logo when one is set (rendered bare so transparent assets look right). Escape still closes the menu; Backspace and backdrop clicks no longer dismiss it."
 }
