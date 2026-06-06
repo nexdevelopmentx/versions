@@ -1,5 +1,5 @@
 {
-    "version": "1.0.4",
-    "release_date": { "day": 29, "month": 5, "year": 2026 },
-    "notes": "Fixed loading-screen console spam (SendLoadingScreenMessage warnings) after a live resource restart."
+    "version": "1.0.5",
+    "release_date": { "day": 6, "month": 6, "year": 2026 },
+    "notes": "Players online and server uptime now paint on the first frame of the loading screen, server-side — no waiting to load in. Uptime uses a cache-proof server start epoch."
 }
