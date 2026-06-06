@@ -1,5 +1,5 @@
 {
-    "version": "1.0.2",
-    "release_date": { "day": 29, "month": 5, "year": 2026 },
-    "notes": "Maintenance release: bug fixes, stability improvements, and UI overhauls."
+    "version": "1.0.3",
+    "release_date": { "day": 6, "month": 6, "year": 2026 },
+    "notes": "UI cleanup: unified items + weapons into one list, removed the aurora backdrop and header icon."
 }
