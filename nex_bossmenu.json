@@ -1,5 +1,5 @@
 {
-    "version": "1.0.2",
-    "release_date": { "day": 29, "month": 5, "year": 2026 },
-    "notes": "Premium animated UI redesign for the boss & admin menus, with configurable accent theming (Config.UI.Accent)."
+    "version": "1.0.3",
+    "release_date": { "day": 6, "month": 6, "year": 2026 },
+    "notes": "Per-location editing, admin teleport, and FiveManage-hosted custom icons on each boss menu access point — plus a UI cleanup pass (no aurora effects, no uppercase labels, accent-themed text)."
 }
