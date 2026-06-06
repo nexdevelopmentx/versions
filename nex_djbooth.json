@@ -1,5 +1,5 @@
 {
-    "version": "1.0.3",
-    "release_date": { "day": 29, "month": 5, "year": 2026 },
-    "notes": "Maintenance release: bug fixes, stability improvements, and UI overhauls."
+    "version": "1.0.4",
+    "release_date": { "day": 6, "month": 6, "year": 2026 },
+    "notes": "Added qb-target support: the booth third-eye now works with either ox_target or qb-target, auto-detected and configurable via Config.Target."
 }
