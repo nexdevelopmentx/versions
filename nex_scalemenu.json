@@ -1,5 +1,5 @@
 {
-    "version": "1.0.0",
+    "version": "1.0.0-hotfix1",
     "release_date": { "day": 8, "month": 6, "year": 2026 },
-    "notes": "Initial release. Two-axis ped scaling (height + body) with cinematic camera, drag-to-rotate, 6 presets, MySQL persistence via oxmysql, tiered permissions (default / ACE / identifier whitelist / Discord roles), gender lock, weapon block, and a pre-built Vue 3 NUI."
+    "notes": "Hotfix: internal cleanup and UI polish."
 }
