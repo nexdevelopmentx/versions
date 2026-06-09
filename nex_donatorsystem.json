@@ -1,5 +1,5 @@
 {
-    "version": "1.0.1",
-    "release_date": { "day": 29, "month": 5, "year": 2026 },
-    "notes": "Maintenance release: bug fixes, stability improvements, and UI overhauls."
+    "version": "1.0.2",
+    "release_date": { "day": 9, "month": 6, "year": 2026 },
+    "notes": "Fixed vehicle purchases not saving to the framework's owned_vehicles / player_vehicles table, so bought cars can now be retrieved from the garage."
 }
