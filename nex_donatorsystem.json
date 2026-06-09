@@ -1,5 +1,5 @@
 {
-    "version": "1.0.2",
+    "version": "1.0.3",
     "release_date": { "day": 9, "month": 6, "year": 2026 },
-    "notes": "Fixed vehicle purchases not saving to the framework's owned_vehicles / player_vehicles table, so bought cars can now be retrieved from the garage."
+    "notes": "Bought vehicles now appear in ZSX_Garages immediately by refreshing the garage's in-memory list after purchase, instead of only after a relog/restart."
 }
