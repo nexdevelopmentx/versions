@@ -1,5 +1,5 @@
 {
-    "version": "1.0.3",
-    "release_date": { "day": 3, "month": 6, "year": 2026 },
-    "notes": "Test drives now hand the player vehicle keys, so key-enforcing scripts (mk_vehiclekeys, qb-vehiclekeys, etc.) let you actually drive the demo car instead of blocking it. Previously only purchases granted keys."
+    "version": "1.0.6",
+    "release_date": { "day": 9, "month": 6, "year": 2026 },
+    "notes": "Finance menu is now a compact vehicle list with a dropdown per vehicle showing the full loan breakdown and pay actions. Purchased cars now register correctly with any garage script (ZSX_Garages and others). DLC vehicles are labelled by their required game build and gated when the server build does not support them."
 }
