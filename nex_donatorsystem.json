@@ -1,5 +1,5 @@
 {
-    "version": "1.0.3",
-    "release_date": { "day": 9, "month": 6, "year": 2026 },
-    "notes": "Bought vehicles now appear in ZSX_Garages immediately by refreshing the garage's in-memory list after purchase, instead of only after a relog/restart."
+    "version": "1.0.4",
+    "release_date": { "day": 10, "month": 6, "year": 2026 },
+    "notes": "Compatibility pass over vehicle-key and garage scripts. Keys auto-detect qbx_vehiclekeys, qb-vehiclekeys, wasabi_carlock, qs-vehiclekeys, Renewed-Vehiclekeys, MrNewbVehicleKeys, mk_vehiclekeys, t1ger_keys, mono_carkeys, jaksam vehicles_keys, F_RealCarKeysSystem and cd_garage built-in keys (qbx/MrNewb/t1ger/jaksam were using wrong or nonexistent APIs before). Test drives grant temporary keys and revoke them at the end; server-side key hand-offs are validated against plate ownership. Delivered vehicles now persist a full vehicle-properties blob and fill every garage-routing column (parking/stored, garage/state, in_garage, parked_state), with a new Config.VehicleGarage option for the garage name."
 }
