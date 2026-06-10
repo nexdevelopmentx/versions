@@ -1,5 +1,5 @@
 {
-    "version": "1.0.1",
-    "release_date": { "day": 28, "month": 5, "year": 2026 },
-    "notes": "Redesigned UI pack for ox_lib."
+    "version": "1.0.2",
+    "release_date": { "day": 10, "month": 6, "year": 2026 },
+    "notes": "New lua/config.lua: set component positions and an accent color the whole UI follows. Brighter text and larger fonts across all components."
 }
