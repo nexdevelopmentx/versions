@@ -1,0 +1,6 @@
+{
+    "version": "1.0.0",
+    "released": false,
+    "release_date": { "day": 10, "month": 6, "year": 2026 },
+    "notes": "Initial version. Drugs Creator panel with ESX/QBCore/Qbox support, ox_inventory integration and configurable consumable effects. Not publicly released yet."
+}
