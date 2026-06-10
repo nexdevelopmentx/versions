@@ -1,5 +1,5 @@
 {
-    "version": "1.0.0-hotfix1",
-    "release_date": { "day": 8, "month": 6, "year": 2026 },
-    "notes": "Hotfix: internal cleanup and UI polish."
+    "version": "1.0.1",
+    "release_date": { "day": 10, "month": 6, "year": 2026 },
+    "notes": "Adds the NEX update notifier to the server console."
 }
