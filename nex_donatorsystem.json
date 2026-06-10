@@ -1,5 +1,5 @@
 {
-    "version": "1.0.4",
+    "version": "1.0.5",
     "release_date": { "day": 10, "month": 6, "year": 2026 },
-    "notes": "Compatibility pass over vehicle-key and garage scripts. Keys auto-detect qbx_vehiclekeys, qb-vehiclekeys, wasabi_carlock, qs-vehiclekeys, Renewed-Vehiclekeys, MrNewbVehicleKeys, mk_vehiclekeys, t1ger_keys, mono_carkeys, jaksam vehicles_keys, F_RealCarKeysSystem and cd_garage built-in keys (qbx/MrNewb/t1ger/jaksam were using wrong or nonexistent APIs before). Test drives grant temporary keys and revoke them at the end; server-side key hand-offs are validated against plate ownership. Delivered vehicles now persist a full vehicle-properties blob and fill every garage-routing column (parking/stored, garage/state, in_garage, parked_state), with a new Config.VehicleGarage option for the garage name."
+    "notes": "Purchased vehicles are now delivered straight into the player's garage instead of spawning in front of the buyer (standalone servers keep the spawn, having no vehicle table). Qbox purchases go through qbx_vehicles:CreatePlayerVehicle for a canonical row, then the ZSX_Garages routing columns (parked_state, disabled, is_impounded, impounded_time) are backfilled and the ZSX vehicle cache is refreshed - the car appears in any garage immediately, no relog. Fixes vehicles bought on Qbox never showing up in ZSX_Garages."
 }
