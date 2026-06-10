@@ -1,5 +1,5 @@
 {
-    "version": "1.0.7",
-    "release_date": { "day": 9, "month": 6, "year": 2026 },
-    "notes": "Financed cars now appear in your garage immediately and repossessed/sold cars are removed without needing a reconnect (ZSX_Garages and other cache-based garages are auto-synced). Also includes the new dropdown-style finance menu and the earlier garage compatibility fixes."
+    "version": "1.0.8",
+    "release_date": { "day": 10, "month": 6, "year": 2026 },
+    "notes": "Compatibility pass over vehicle-key and garage scripts. Keys now auto-detect qbx_vehiclekeys, qb-vehiclekeys, wasabi_carlock, qs-vehiclekeys, Renewed-Vehiclekeys, MrNewbVehicleKeys, mk_vehiclekeys, t1ger_keys, jaksam vehicles_keys, F_RealCarKeysSystem and cd_garage built-in keys (t1ger/jaksam/qs were using wrong or outdated APIs before). Test drives grant temporary keys and revoke them at the end; the keys hand-off is server-validated against plate ownership. Garage insert additionally fills cd_garage's in_garage column, re-syncs jaksam's owned-keys cache after buy/finance/repo/sell, and adds a Config.Garage.ExtraColumns escape hatch for exotic routing columns."
 }
