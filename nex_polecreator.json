@@ -1,5 +1,5 @@
 {
-    "version": "1.0.1",
-    "release_date": { "day": 3, "month": 6, "year": 2026 },
-    "notes": "Built-in placement system (no more object_gizmo), server-spawned props, and a Qbox job-list fix."
+    "version": "1.0.2",
+    "release_date": { "day": 10, "month": 6, "year": 2026 },
+    "notes": "Dance selection context menu on third-eye (off-center right NUI) with 3 new lap dances; dance list is config-driven via Config.Dances."
 }
