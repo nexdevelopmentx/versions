@@ -1,5 +1,5 @@
 {
-    "version": "1.0.9",
+    "version": "1.1.0",
     "release_date": { "day": 10, "month": 6, "year": 2026 },
-    "notes": "ZSX_Garages garage-list fix: ZSX only lists vehicles whose model exists in its own shared/config_vehicles.lua, so custom/addon cars sold by the dealership parked fine but never showed in the garage list (regardless of cash or finance). The dealership catalog is now mirrored into that file automatically - entries are appended between marker comments, ZSX's own list is never touched, and models removed from the catalog later are kept so already-sold cars stay visible. Syncs on boot and after admin add/edit/import; the console prints a reminder to restart ZSX_Garages after a sync. Opt out with Config.Garage.SyncZSXVehicleList = false."
+    "notes": "Qbox finance/garage fix + finance menu UI. On Qbox the vehicle row was created through qbx_vehicles:CreatePlayerVehicle with a top-level plate field that export does not have, so the row got a RANDOM plate while the spawned car, the keys and the loan used the real one - garages listed an unknown car, the real one could not be parked, and repo deleted nothing. The full property set (with the plate) is now passed via props. The /financemenu panel is now height-capped at 90vh (it could overflow the screen on smaller resolutions), loan rows act as an accordion, and an expanded dropdown scrolls itself fully into view instead of leaving the breakdown and pay buttons cut off."
 }
