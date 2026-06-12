@@ -1,6 +1,6 @@
 {
-    "version": "1.0.0-hotfix1",
+    "version": "1.0.1",
     "released": true,
-    "release_date": { "day": 10, "month": 6, "year": 2026 },
-    "notes": "Hotfix: escrow ignore for config.lua and the framework bridge so they stay editable in escrowed builds, plus author branding fix."
+    "release_date": { "day": 11, "month": 6, "year": 2026 },
+    "notes": "Effects timeline with stackable scheduled effects, world economy (harvesting, fields, crafting, labs, factories, selling, territories, hired dealers), JSON or MySQL storage, Lucide icon UI and emote/scenario taking methods."
 }
