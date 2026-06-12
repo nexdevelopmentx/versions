@@ -1,6 +1,6 @@
 {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "released": true,
     "release_date": { "day": 11, "month": 6, "year": 2026 },
-    "notes": "Effects timeline with stackable scheduled effects, world economy (harvesting, fields, crafting, labs, factories, selling, territories, hired dealers), JSON or MySQL storage, Lucide icon UI and emote/scenario taking methods."
+    "notes": "Built-in emote engine (joint, cigarette, beer, whiskey, burger with props and smoke ptfx, no emote menu required), prism-emotemenu support and emote/scenario taking methods."
 }
