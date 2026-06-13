@@ -1,5 +1,5 @@
 {
-    "version": "1.0.0-hotfix1",
-    "release_date": { "day": 4, "month": 6, "year": 2026 },
-    "notes": "Hotfix 1. Reworked level skipping into a flat-price 'Buy Level' purchase (one level for a configurable cash cost, server-validated), redesigned the upgrade modal with clean level-transition badges, removed native number-input spinner arrows in the admin editor, and fixed glow cut-offs across the battlepass and rewards-editor menus."
+    "version": "1.0.1",
+    "release_date": { "day": 13, "month": 6, "year": 2026 },
+    "notes": "Performance pass on the battlepass UI: removed the per-card 3D tilt (each reward card was getting its own GPU layer) and the blur-based tab transitions, and stopped every reward card from animating in individually. Menus now open, close, and switch tabs smoothly even with many levels."
 }
