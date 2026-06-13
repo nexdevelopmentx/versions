@@ -1,5 +1,5 @@
 {
-    "version": "1.0.5",
-    "release_date": { "day": 10, "month": 6, "year": 2026 },
-    "notes": "Purchased vehicles are now delivered straight into the player's garage instead of spawning in front of the buyer (standalone servers keep the spawn, having no vehicle table). Qbox purchases go through qbx_vehicles:CreatePlayerVehicle for a canonical row, then the ZSX_Garages routing columns (parked_state, disabled, is_impounded, impounded_time) are backfilled and the ZSX vehicle cache is refreshed - the car appears in any garage immediately, no relog. Fixes vehicles bought on Qbox never showing up in ZSX_Garages."
+    "version": "1.0.6",
+    "release_date": { "day": 13, "month": 6, "year": 2026 },
+    "notes": "UI polish: removed the drifting aurora background blobs and the soft accent glow blobs scattered across the shop (background, panel, stat cards, deal banners) - they were being clipped by the panel's rounded edges and showing a hard cut-off line. The backdrop vignette now fades smoothly in and out with the menu instead of snapping on open/close. Default theme accent is now purple (#8b5cf6)."
 }
