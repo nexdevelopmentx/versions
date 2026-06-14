@@ -1,6 +1,6 @@
 {
-    "version": "1.0.2",
+    "version": "1.0.3",
     "released": true,
-    "release_date": { "day": 11, "month": 6, "year": 2026 },
-    "notes": "Built-in emote engine (joint, cigarette, beer, whiskey, burger with props and smoke ptfx, no emote menu required), prism-emotemenu support and emote/scenario taking methods."
+    "release_date": { "day": 14, "month": 6, "year": 2026 },
+    "notes": "Per-drug progress bar settings: each drug can now choose which controls to disable (movement, driving, combat, mouse), toggle whether the bar can be cancelled, and set its own use time, all from the drug editor menu."
 }
