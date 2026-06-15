@@ -1,5 +1,5 @@
 {
-    "version": "1.0.2",
-    "release_date": { "day": 3, "month": 6, "year": 2026 },
-    "notes": "Fixed sv_hostname showing a queue count when the server has open slots and nobody is actually waiting."
+    "version": "1.0.3",
+    "release_date": { "day": 15, "month": 6, "year": 2026 },
+    "notes": "Added a JSON locale system with English and Spanish translations. Set Config.Locale to choose the language; missing keys fall back to English."
 }
