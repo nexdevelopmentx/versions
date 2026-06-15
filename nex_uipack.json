@@ -1,5 +1,5 @@
 {
-    "version": "1.0.2",
-    "release_date": { "day": 10, "month": 6, "year": 2026 },
-    "notes": "New lua/config.lua: set component positions and an accent color the whole UI follows. Brighter text and larger fonts across all components."
+    "version": "1.0.3",
+    "release_date": { "day": 15, "month": 6, "year": 2026 },
+    "notes": "New JSON locale system: English and Spanish ship, and you can add any language by dropping a locales/<code>.json file. All in-UI text — dialog buttons, progress, skill check and notification titles — is now translatable."
 }
