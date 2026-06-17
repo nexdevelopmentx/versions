@@ -1,5 +1,5 @@
 {
-    "version": "1.0.4",
-    "release_date": { "day": 16, "month": 6, "year": 2026 },
-    "notes": "New: Config.RentLimits lets you cap how many rooms a player can rent per hotel (now supports several rooms in the same hotel) and across all hotels. New: Config.StashCapacity sets the slots/weight of the room storage, safe, and per-player recovery locker. Existing servers upgrade automatically — the old one-room-per-hotel database constraints are dropped on boot."
+    "version": "1.0.5",
+    "release_date": { "day": 17, "month": 6, "year": 2026 },
+    "notes": "New: JSON locale system. All player-facing notifications, prompts and the rent UI now read from locales/<code>.json — ships with English and Spanish, set Config.Locale to switch. Add a language by copying locales/en.json, translating it, and pointing Config.Locale at it; missing keys fall back to English."
 }
