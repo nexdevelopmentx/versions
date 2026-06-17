@@ -1,5 +1,5 @@
 {
-    "version": "1.0.3-hotfix1",
-    "release_date": { "day": 29, "month": 5, "year": 2026 },
-    "notes": "Hotfix: quieted a misleading 'no citizenid' rental-attach log that could spam ESX server consoles. The message was harmless (the playerLoaded handler still attaches the rental) and is now reworded and gated behind Config.Debug."
+    "version": "1.0.4",
+    "release_date": { "day": 16, "month": 6, "year": 2026 },
+    "notes": "New: Config.RentLimits lets you cap how many rooms a player can rent per hotel (now supports several rooms in the same hotel) and across all hotels. New: Config.StashCapacity sets the slots/weight of the room storage, safe, and per-player recovery locker. Existing servers upgrade automatically — the old one-room-per-hotel database constraints are dropped on boot."
 }
