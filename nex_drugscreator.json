@@ -1,6 +1,6 @@
 {
-    "version": "1.0.3",
+    "version": "1.0.4",
     "released": true,
-    "release_date": { "day": 14, "month": 6, "year": 2026 },
-    "notes": "Per-drug progress bar settings: each drug can now choose which controls to disable (movement, driving, combat, mouse), toggle whether the bar can be cancelled, and set its own use time, all from the drug editor menu."
+    "release_date": { "day": 17, "month": 6, "year": 2026 },
+    "notes": "Harvesting zones now show a ground circle with a toggle harvesting mode: press E inside the circle to start harvesting on a loop, and E again (or walk out of the circle) to stop. Notifications and the on-screen [E] interaction prompt can now use either ox_lib or the native GTA style, set as a default in config.lua and switchable live in-game from the panel's Settings tab."
 }
