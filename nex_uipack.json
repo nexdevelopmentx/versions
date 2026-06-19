@@ -1,5 +1,5 @@
 {
-    "version": "1.0.3",
-    "release_date": { "day": 15, "month": 6, "year": 2026 },
-    "notes": "New JSON locale system: English and Spanish ship, and you can add any language by dropping a locales/<code>.json file. All in-UI text — dialog buttons, progress, skill check and notification titles — is now translatable."
+    "version": "1.0.4",
+    "release_date": { "day": 19, "month": 6, "year": 2026 },
+    "notes": "UPDATE IMMEDIATELY! 1.0.3 CRASHES! Fixes the on-load UI crash and the locale system not applying (Spanish and custom languages now work)."
 }
