@@ -1,5 +1,5 @@
 {
-    "version": "1.0.4",
-    "release_date": { "day": 6, "month": 6, "year": 2026 },
-    "notes": "Removed the Aurora backdrop and the soft accent glow blobs from every panel, card, modal, and overlay — no more clipped-edge halos at the top of the bench, recipe detail, crafting progress, dashboard, stat cards, or placer HUD."
+    "version": "1.0.5",
+    "release_date": { "day": 19, "month": 6, "year": 2026 },
+    "notes": "Fixed editing a bench's location visually — the already-placed prop now hides while you reposition (no more duplicate prop or raycast snapping onto it), and the ghost follows your aim immediately instead of starting frozen at the old spot."
 }
