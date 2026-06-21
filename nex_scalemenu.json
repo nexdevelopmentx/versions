@@ -1,5 +1,5 @@
 {
-    "version": "1.0.1",
-    "release_date": { "day": 10, "month": 6, "year": 2026 },
-    "notes": "Adds the NEX update notifier to the server console."
+    "version": "1.0.2",
+    "release_date": { "day": 20, "month": 6, "year": 2026 },
+    "notes": "Fixes scaling affecting other players. Out-of-scope peds resolved to your own character, so scales could land on the wrong player. Scales now target only the correct player. Update on all clients."
 }
