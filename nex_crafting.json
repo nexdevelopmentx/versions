@@ -1,5 +1,5 @@
 {
-    "version": "1.0.5",
-    "release_date": { "day": 19, "month": 6, "year": 2026 },
-    "notes": "Fixed editing a bench's location visually — the already-placed prop now hides while you reposition (no more duplicate prop or raycast snapping onto it), and the ghost follows your aim immediately instead of starting frozen at the old spot."
+    "version": "1.0.6",
+    "release_date": { "day": 26, "month": 6, "year": 2026 },
+    "notes": "Adds a blueprint system — lock recipes behind learnable blueprint items that players unlock at the bench. Recipe item names now show their ox_inventory labels, and the bench 'Use' interaction prompt is fully localizable."
 }
