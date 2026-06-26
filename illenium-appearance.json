@@ -1,0 +1,5 @@
+{
+    "version": "1.1.7",
+    "release_date": { "day": 26, "month": 6, "year": 2026 },
+    "notes": "Full visual overhaul of the appearance editor: a wider panel with cleaner layered controls and lighter typography, a refined tab rail, and a redesigned single-column import/export ('Character Data') panel. Accent theming now recolours the foreground (icons + text) on neutral dark panels instead of tinting the backgrounds (default accent is cyan, configurable in shared/theme.lua). All icons migrated to offline Iconify (Material Design Icons). The save button is now 'Save Changes' with a hover shine effect, and the 'Finishing' tab was renamed to 'Props'."
+}
