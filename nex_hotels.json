@@ -1,5 +1,5 @@
 {
-    "version": "1.0.5",
-    "release_date": { "day": 17, "month": 6, "year": 2026 },
-    "notes": "New: JSON locale system. All player-facing notifications, prompts and the rent UI now read from locales/<code>.json — ships with English and Spanish, set Config.Locale to switch. Add a language by copying locales/en.json, translating it, and pointing Config.Locale at it; missing keys fall back to English."
+    "version": "1.0.6",
+    "release_date": { "day": 26, "month": 6, "year": 2026 },
+    "notes": "New: the front-desk recovery locker can now be take-only. Renters can retrieve belongings that were moved there when a rental ended, but can no longer deposit items into it, so it can't be used as free extra storage. Toggle with Config.RecoveryTakeOnly (on by default; set false to restore the old behavior). The automatic transfer of room items into the locker is unchanged."
 }
