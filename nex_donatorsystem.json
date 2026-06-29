@@ -1,5 +1,5 @@
 {
-    "version": "1.0.6",
-    "release_date": { "day": 13, "month": 6, "year": 2026 },
-    "notes": "UI polish: removed the drifting aurora background blobs and the soft accent glow blobs scattered across the shop (background, panel, stat cards, deal banners) - they were being clipped by the panel's rounded edges and showing a hard cut-off line. The backdrop vignette now fades smoothly in and out with the menu instead of snapping on open/close. Default theme accent is now purple (#8b5cf6)."
+    "version": "1.0.7",
+    "release_date": { "day": 29, "month": 6, "year": 2026 },
+    "notes": "Locale files converted from Lua tables to JSON (locales/*.json), loaded at startup via LoadResourceFile. The locale loader and the global T() helper moved from locales/_init.lua to shared/locale.lua. Drop-in update - translations and all in-game/NUI text are unchanged."
 }
