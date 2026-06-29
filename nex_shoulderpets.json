@@ -1,5 +1,5 @@
 {
-    "version": "1.0.2",
-    "release_date": { "day": 30, "month": 5, "year": 2026 },
-    "notes": "Rebuilt the menu UI on the NEX design system: faux-glass panel, animated edge-light, framer-motion entrance/stagger/tilt, count-up, and a header sheen."
+    "version": "1.0.3",
+    "release_date": { "day": 29, "month": 6, "year": 2026 },
+    "notes": "Locale files moved from Lua to JSON (locales/*.json) and a new top-level Config.Locale option replaces Config.General.ui.locale."
 }
