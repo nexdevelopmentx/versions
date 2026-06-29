@@ -1,5 +1,5 @@
 {
-    "version": "1.0.1-hotfix1",
-    "release_date": { "day": 29, "month": 5, "year": 2026 },
-    "notes": "Fixed install items to markdown."
+    "version": "1.0.2",
+    "release_date": { "day": 29, "month": 6, "year": 2026 },
+    "notes": "Locales moved to ox_lib JSON, added Config.Locale, and fixed Config.CrutchItem = false to properly disable the item path."
 }
