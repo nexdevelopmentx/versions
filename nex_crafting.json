@@ -1,5 +1,5 @@
 {
-    "version": "1.0.6",
-    "release_date": { "day": 26, "month": 6, "year": 2026 },
-    "notes": "Adds a blueprint system — lock recipes behind learnable blueprint items that players unlock at the bench. Recipe item names now show their ox_inventory labels, and the bench 'Use' interaction prompt is fully localizable."
+    "version": "1.0.7",
+    "release_date": { "day": 29, "month": 6, "year": 2026 },
+    "notes": "Locale files moved from Lua to JSON (locales/<code>.json) and the active language is now picked via the new settings.locale option in settings/general.lua. Same keys and English fallback as before — recreate any custom translations as JSON."
 }
