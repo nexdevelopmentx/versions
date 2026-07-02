@@ -1,5 +1,5 @@
 {
-    "version": "1.0.7",
-    "release_date": { "day": 29, "month": 6, "year": 2026 },
-    "notes": "Locale files converted from Lua tables to JSON (locales/*.json), loaded at startup via LoadResourceFile. The locale loader and the global T() helper moved from locales/_init.lua to shared/locale.lua. Drop-in update - translations and all in-game/NUI text are unchanged."
+    "version": "1.0.8",
+    "release_date": { "day": 2, "month": 7, "year": 2026 },
+    "notes": "Store buttons now open Config.StoreURL through FiveM's native open-website prompt (real browser) instead of copying to the clipboard, with the menu staying open. The top bar shows the player's Discord avatar (fetched server-side, cached) and their FiveM account name instead of the character name."
 }
