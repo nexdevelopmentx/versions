@@ -1,5 +1,5 @@
 {
-    "version": "1.0.2",
-    "release_date": { "day": 29, "month": 6, "year": 2026 },
-    "notes": "Locales moved to ox_lib JSON, added Config.Locale, and fixed Config.CrutchItem = false to properly disable the item path."
+    "version": "1.0.3",
+    "release_date": { "day": 2, "month": 7, "year": 2026 },
+    "notes": "wasabi_crutch interop: the hospital NPC and EMS can now detect and remove third-party crutches; new isActiveExport field on Config.CrutchResources."
 }
