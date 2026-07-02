@@ -1,5 +1,5 @@
 {
-    "version": "1.0.3",
+    "version": "1.0.4",
     "release_date": { "day": 2, "month": 7, "year": 2026 },
-    "notes": "wasabi_crutch interop: the hospital NPC and EMS can now detect and remove third-party crutches; new isActiveExport field on Config.CrutchResources."
+    "notes": "New Config.BlockCombat (block punching/melee/shooting while crutched, weapons auto-holster, crutch never drops) and Config.BlockSprint options."
 }
