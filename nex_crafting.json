@@ -1,5 +1,5 @@
 {
-    "version": "1.0.7",
-    "release_date": { "day": 29, "month": 6, "year": 2026 },
-    "notes": "Locale files moved from Lua to JSON (locales/<code>.json) and the active language is now picked via the new settings.locale option in settings/general.lua. Same keys and English fallback as before — recreate any custom translations as JSON."
+    "version": "1.0.8",
+    "release_date": { "day": 2, "month": 7, "year": 2026 },
+    "notes": "Crafted items now stack in ox_inventory — the craftedBy/craftedAt metadata that forced every craft into its own slot is gone by default. Want the provenance tags anyway? Enable the new settings.crafting.craftedItemMetadata option."
 }
