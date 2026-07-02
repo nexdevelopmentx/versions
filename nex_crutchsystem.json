@@ -1,5 +1,5 @@
 {
-    "version": "1.0.4",
+    "version": "1.0.5",
     "release_date": { "day": 2, "month": 7, "year": 2026 },
-    "notes": "New Config.BlockCombat (block punching/melee/shooting while crutched, weapons auto-holster, crutch never drops) and Config.BlockSprint options."
+    "notes": "Discord logging: per-event webhooks for EMS give/remove, hospital NPC removals, export calls, admin actions and broken items — configured in the new server-only sv_config.lua."
 }
