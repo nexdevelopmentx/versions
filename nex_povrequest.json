@@ -1,0 +1,5 @@
+{
+    "version": "1.0.0",
+    "release_date": { "day": 2, "month": 7, "year": 2026 },
+    "notes": "Initial release. Admin /pov tool to request a player's POV in a report - searchable online player list or manual server ID, optional reason, anti-spam cooldowns, a configurable accent colour, multi-language JSON locales, admin-only ACE permission and Discord webhook logging. ox_lib only."
+}
