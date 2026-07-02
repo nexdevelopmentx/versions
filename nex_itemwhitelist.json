@@ -1,5 +1,5 @@
 {
-    "version": "1.0.3",
-    "release_date": { "day": 6, "month": 6, "year": 2026 },
-    "notes": "UI cleanup: unified items + weapons into one list, removed the aurora backdrop and header icon."
+    "version": "1.0.4",
+    "release_date": { "day": 2, "month": 7, "year": 2026 },
+    "notes": "Discord role whitelist scope: lock items/weapons to a Discord role via a bot, alongside job/player scopes. New server-only config_server.lua keeps the bot token and webhook URL off clients."
 }
