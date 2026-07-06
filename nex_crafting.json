@@ -1,5 +1,5 @@
 {
-    "version": "1.0.8",
-    "release_date": { "day": 2, "month": 7, "year": 2026 },
-    "notes": "Crafted items now stack in ox_inventory — the craftedBy/craftedAt metadata that forced every craft into its own slot is gone by default. Want the provenance tags anyway? Enable the new settings.crafting.craftedItemMetadata option."
+    "version": "1.0.9",
+    "release_date": { "day": 6, "month": 7, "year": 2026 },
+    "notes": "Custom inventory support — the new integrations/custom_inventory.lua adapter plus settings.inventory.mode = 'custom' lets nex_crafting run on any inventory resource (the default 'auto' keeps using ox_inventory). The Discord bot token now reads from the nex_crafting_bot_token convar in server.cfg instead of living in settings/discord.lua."
 }
