@@ -1,0 +1,5 @@
+{
+    "version": "1.0.0",
+    "release_date": { "day": 7, "month": 7, "year": 2026 },
+    "notes": "Initial release. Multi-framework garage & impound system (ESX / QBCore / Qbox) with a React + Tailwind UI - personal, job, gang, impound and private garages, an in-game admin garage editor with import/export, police impound flow with lots/fees/timers, vehicle transfers, sharing, selling, renaming and pins, persistent damage/mods/mileage, and auto-detected fuel, keys, notify, banking and target integrations."
+}
