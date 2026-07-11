@@ -1,5 +1,5 @@
 {
-    "version": "1.0.2",
-    "release_date": { "day": 20, "month": 6, "year": 2026 },
-    "notes": "Fixes scaling affecting other players. Out-of-scope peds resolved to your own character, so scales could land on the wrong player. Scales now target only the correct player. Update on all clients."
+    "version": "1.0.4",
+    "release_date": { "day": 11, "month": 7, "year": 2026 },
+    "notes": "Localization fixed: the menu now fully translates through locales/<code>.json (labels, presets, build names, notifications). Config simplified to locale = \"en\". Also includes the v1.0.3 shadow-teleport and hitbox fixes."
 }
