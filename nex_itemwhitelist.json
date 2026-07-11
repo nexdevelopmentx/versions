@@ -1,5 +1,5 @@
 {
-    "version": "1.0.4",
-    "release_date": { "day": 2, "month": 7, "year": 2026 },
-    "notes": "Discord role whitelist scope: lock items/weapons to a Discord role via a bot, alongside job/player scopes. New server-only config_server.lua keeps the bot token and webhook URL off clients."
+    "version": "1.0.5",
+    "release_date": { "day": 11, "month": 7, "year": 2026 },
+    "notes": "Job-scope enforcement overhaul (pickup/swap/craft/creation bypasses closed, gang support, framework rebind fix), JSON locales in 8 languages, ox_lib logger support, and the Discord webhook URL moved to a server.cfg convar."
 }
