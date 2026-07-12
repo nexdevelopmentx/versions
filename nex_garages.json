@@ -1,5 +1,5 @@
 {
-    "version": "1.0.3",
-    "release_date": { "day": 11, "month": 7, "year": 2026 },
-    "notes": "Cinematic garage upgrades: sharp scene (fullscreen blur removed), depth of field on the vehicle, showroom darkness with a light rig, private routing bucket browsing, and a full-screen overlay redesign with a top actions button bar. Layered share access modal with slot meter and player presence, labeled admin footer counts, and dialogs no longer clipped by the menu behind them."
+    "version": "1.0.4",
+    "release_date": { "day": 12, "month": 7, "year": 2026 },
+    "notes": "Fixed script errors and corrected invalid Joaat hashes."
 }
