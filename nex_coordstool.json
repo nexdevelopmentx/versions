@@ -1,5 +1,5 @@
 {
-    "version": "1.0.2",
-    "release_date": { "day": 30, "month": 5, "year": 2026 },
-    "notes": "Refreshed UI: themeable accent color, a repositionable live HUD (corners or edges), and a cleaner copy panel."
+    "version": "1.0.3",
+    "release_date": { "day": 16, "month": 7, "year": 2026 },
+    "notes": "Full JSON locale system (English + Spanish) — menu, HUD overlay and notifications are now translatable."
 }
