@@ -1,5 +1,5 @@
 {
-    "version": "1.1.1",
-    "release_date": { "day": 26, "month": 6, "year": 2026 },
-    "notes": "In-stock-only dealership menus + UI pass. On stock-enforced lots the browse menu now hides sold-out models, so customers only see what they can actually buy instead of clicking an out-of-stock car and getting an 'out of stock' notify (toggle: Config.Stock.HideOutOfStock, default on; self-service / unlimited-inventory lots are unaffected). The management header was decluttered - removed the building icon plate, the green 'Active' pill and the lot-id chip next to the dealership name. Every dropdown across the UI (dealership + sell-to pickers, category and stock-status filters, employee roles, admin import/sort/page-size, vehicle category and minimum game build) is now a custom themed dropdown that matches the dark menus, renders above modals and scroll containers without clipping, flips up when there's no room below, and supports keyboard navigation - replacing the OS-styled native selects."
+    "version": "1.1.2",
+    "release_date": { "day": 16, "month": 7, "year": 2026 },
+    "notes": "Inline locale table replaced with a JSON locale system (English + Spanish) — the entire showroom, management and admin UI is now translatable."
 }
