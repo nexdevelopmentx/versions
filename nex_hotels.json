@@ -1,5 +1,5 @@
 {
-    "version": "1.0.6",
-    "release_date": { "day": 26, "month": 6, "year": 2026 },
-    "notes": "New: the front-desk recovery locker can now be take-only. Renters can retrieve belongings that were moved there when a rental ended, but can no longer deposit items into it, so it can't be used as free extra storage. Toggle with Config.RecoveryTakeOnly (on by default; set false to restore the old behavior). The automatic transfer of room items into the locker is unchanged."
+    "version": "1.0.7",
+    "release_date": { "day": 16, "month": 7, "year": 2026 },
+    "notes": "The admin/owner management panel is now fully localized — sidebar, hotel details, rooms & elevators tabs, all modals, dialogs, tooltips and the in-world picker HUD read from the locale files, with Spanish shipping fully translated. Custom locale files keep working: any key a translation omits falls back to English automatically."
 }
