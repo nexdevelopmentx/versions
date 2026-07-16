@@ -1,5 +1,5 @@
 {
-    "version": "1.0.3",
-    "release_date": { "day": 6, "month": 6, "year": 2026 },
-    "notes": "Per-location editing, admin teleport, and FiveManage-hosted custom icons on each boss menu access point — plus a UI cleanup pass (no aurora effects, no uppercase labels, accent-themed text)."
+    "version": "1.0.4",
+    "release_date": { "day": 16, "month": 7, "year": 2026 },
+    "notes": "Full JSON locale system (English + Spanish) — every notification, menu and admin panel string is now translatable."
 }
