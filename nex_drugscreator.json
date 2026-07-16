@@ -1,6 +1,5 @@
 {
-    "version": "1.0.5",
-    "released": true,
-    "release_date": { "day": 2, "month": 7, "year": 2026 },
-    "notes": "The full street economy update: corner selling with customers that walk up to you, plane and boat selling runs, a roaming narcos bulk buyer, pushers with work hours, black-market auctions with live bidding, territory wars (faction points, hot zones, owner bonuses and gang alerts), player-hired dealers with heat, arrests and robberies managed from a new trap phone, buyable factories with worker upgrades, wild drug fields, advanced lab crafting with fire/explosion hazards, trigger-item pocket crafting, drug sharing while puffing, new hallucination effects, police systems (minimum cops, alert blips, low-cop price reduction), Discord logs and a statistics dashboard."
+    "version": "1.0.6",
+    "release_date": { "day": 16, "month": 7, "year": 2026 },
+    "notes": "Full JSON locale system (English + Spanish) — 867 strings across the creator panel, trap phone and all in-game text are now translatable."
 }
