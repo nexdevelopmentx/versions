@@ -1,5 +1,5 @@
 {
-    "version": "1.0.5",
-    "release_date": { "day": 6, "month": 6, "year": 2026 },
-    "notes": "Players online and server uptime now paint on the first frame of the loading screen, server-side — no waiting to load in. Uptime uses a cache-proof server start epoch."
+    "version": "1.0.6",
+    "release_date": { "day": 16, "month": 7, "year": 2026 },
+    "notes": "Full JSON locale system (English + Spanish) — tips, feature cards and stats are now translatable; text config moved from config.lua into locales."
 }
