@@ -1,5 +1,5 @@
 {
-    "version": "1.0.3",
-    "release_date": { "day": 30, "month": 5, "year": 2026 },
-    "notes": "Complete UI overhaul with config-driven accent theming, an advanced centered admin menu with teleport actions, and self-installing/self-healing SQL."
+    "version": "1.0.4",
+    "release_date": { "day": 16, "month": 7, "year": 2026 },
+    "notes": "Inline Config.Locale table replaced with a JSON locale system (English + Spanish); Config.Locale is now the language code."
 }
