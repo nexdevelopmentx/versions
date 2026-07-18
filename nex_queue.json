@@ -1,5 +1,5 @@
 {
-    "version": "1.0.3",
-    "release_date": { "day": 15, "month": 6, "year": 2026 },
-    "notes": "Added a JSON locale system with English and Spanish translations. Set Config.Locale to choose the language; missing keys fall back to English."
+    "version": "1.0.5",
+    "release_date": { "day": 17, "month": 7, "year": 2026 },
+    "notes": "Boarding UI Overhaul"
 }
