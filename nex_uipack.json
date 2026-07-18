@@ -1,5 +1,5 @@
 {
-    "version": "1.0.4",
-    "release_date": { "day": 19, "month": 6, "year": 2026 },
-    "notes": "UPDATE IMMEDIATELY! 1.0.3 CRASHES! Fixes the on-load UI crash and the locale system not applying (Spanish and custom languages now work)."
+    "version": "1.1.0",
+    "release_date": { "day": 18, "month": 7, "year": 2026 },
+    "notes": "Complete visual refresh: refined dark theme, sharper icons, and connected menu surfaces across every component. No breaking changes."
 }
