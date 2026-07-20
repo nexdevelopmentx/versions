@@ -1,0 +1,5 @@
+{
+    "version": "1.0.4",
+    "release_date": { "day": 16, "month": 7, "year": 2026 },
+    "notes": "Full JSON locale system (English + Spanish) — every notification, menu and admin panel string is now translatable."
+}

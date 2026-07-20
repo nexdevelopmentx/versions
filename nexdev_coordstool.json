@@ -1,0 +1,5 @@
+{
+    "version": "1.0.3",
+    "release_date": { "day": 16, "month": 7, "year": 2026 },
+    "notes": "Full JSON locale system (English + Spanish) — menu, HUD overlay and notifications are now translatable."
+}

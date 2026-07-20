@@ -1,0 +1,5 @@
+{
+    "version": "1.0.0",
+    "release_date": { "day": 27, "month": 6, "year": 2026 },
+    "notes": "Initial release. Standalone animation positioning - free-place your character with no collision snapping. Features a scripted orbit / free-fly camera (right-mouse look, wheel zoom), a mouse-interactive black & white NUI in live two-way sync (Public Sans, single configurable accent colour), an on-screen instructions panel and a control menu with live read-outs and sliders. Optimized and ox_lib only."
+}
