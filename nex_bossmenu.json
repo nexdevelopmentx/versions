@@ -1,5 +1,5 @@
 {
-    "version": "1.0.4",
-    "release_date": { "day": 16, "month": 7, "year": 2026 },
-    "notes": "Full JSON locale system (English + Spanish) — every notification, menu and admin panel string is now translatable."
+    "version": "1.0.5",
+    "release_date": { "day": 19, "month": 7, "year": 2026 },
+    "notes": "nex_bossmenu is no longer maintained - it has been rebranded to nexdev_bossmenu under NEX.dev. Check your Cfx.re portal (Granted Assets) for the new nexdev_bossmenu asset and switch to it to keep receiving updates."
 }

@@ -1,5 +1,5 @@
 {
-    "version": "1.0.0",
-    "release_date": { "day": 27, "month": 6, "year": 2026 },
-    "notes": "Initial release. Standalone animation positioning - free-place your character with no collision snapping. Features a scripted orbit / free-fly camera (right-mouse look, wheel zoom), a mouse-interactive black & white NUI in live two-way sync (Public Sans, single configurable accent colour), an on-screen instructions panel and a control menu with live read-outs and sliders. Optimized and ox_lib only."
+    "version": "1.0.1",
+    "release_date": { "day": 19, "month": 7, "year": 2026 },
+    "notes": "nex_animpos is no longer maintained - it has been rebranded to nexdev_animpos under NEX.dev. Check your Cfx.re portal (Granted Assets) for the new nexdev_animpos asset and switch to it to keep receiving updates."
 }

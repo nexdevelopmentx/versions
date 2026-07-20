@@ -1,5 +1,5 @@
 {
-    "version": "1.0.7",
-    "release_date": { "day": 16, "month": 7, "year": 2026 },
-    "notes": "The admin/owner management panel is now fully localized — sidebar, hotel details, rooms & elevators tabs, all modals, dialogs, tooltips and the in-world picker HUD read from the locale files, with Spanish shipping fully translated. Custom locale files keep working: any key a translation omits falls back to English automatically."
+    "version": "1.0.8",
+    "release_date": { "day": 19, "month": 7, "year": 2026 },
+    "notes": "nex_hotels is no longer maintained - it has been rebranded to nexdev_hotels under NEX.dev. Check your Cfx.re portal (Granted Assets) for the new nexdev_hotels asset and switch to it to keep receiving updates."
 }

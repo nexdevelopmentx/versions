@@ -1,5 +1,5 @@
 {
-    "version": "1.0.1",
-    "release_date": { "day": 13, "month": 6, "year": 2026 },
-    "notes": "Performance pass on the battlepass UI: removed the per-card 3D tilt (each reward card was getting its own GPU layer) and the blur-based tab transitions, and stopped every reward card from animating in individually. Menus now open, close, and switch tabs smoothly even with many levels."
+    "version": "1.0.2",
+    "release_date": { "day": 19, "month": 7, "year": 2026 },
+    "notes": "nex_battlepass has been discontinued and no longer exists. It will receive no further updates or support."
 }

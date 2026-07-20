@@ -1,5 +1,5 @@
 {
-    "version": "1.0.5",
-    "release_date": { "day": 2, "month": 7, "year": 2026 },
-    "notes": "Discord logging: per-event webhooks for EMS give/remove, hospital NPC removals, export calls, admin actions and broken items — configured in the new server-only sv_config.lua."
+    "version": "1.0.6",
+    "release_date": { "day": 19, "month": 7, "year": 2026 },
+    "notes": "nex_crutchsystem is no longer maintained - it has been rebranded to nexdev_crutchsystem under NEX.dev. Check your Cfx.re portal (Granted Assets) for the new nexdev_crutchsystem asset and switch to it to keep receiving updates."
 }

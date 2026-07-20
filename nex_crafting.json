@@ -1,5 +1,5 @@
 {
-    "version": "1.1.0",
-    "release_date": { "day": 12, "month": 7, "year": 2026 },
-    "notes": ".webp item image support — set settings.oxInventory.imageExtension to 'webp' (default 'png') and every item image URL uses that extension. Bench prop and crafting-animation loading now goes through ox_lib (lib.requestModel / lib.requestAnimDict), fixing props that spawned slowly or silently failed to load after the old 2.5s cutoff."
+    "version": "1.1.1",
+    "release_date": { "day": 19, "month": 7, "year": 2026 },
+    "notes": "nex_crafting is no longer maintained - it has been rebranded to nexdev_crafting under NEX.dev. Check your Cfx.re portal (Granted Assets) for the new nexdev_crafting asset and switch to it to keep receiving updates."
 }

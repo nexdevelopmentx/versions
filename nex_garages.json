@@ -1,5 +1,5 @@
 {
-    "version": "1.0.4",
-    "release_date": { "day": 12, "month": 7, "year": 2026 },
-    "notes": "Fixed script errors and corrected invalid Joaat hashes."
+    "version": "1.0.5",
+    "release_date": { "day": 19, "month": 7, "year": 2026 },
+    "notes": "nex_garages is no longer maintained - it has been rebranded to nexdev_garages under NEX.dev. Check your Cfx.re portal (Granted Assets) for the new nexdev_garages asset and switch to it to keep receiving updates."
 }

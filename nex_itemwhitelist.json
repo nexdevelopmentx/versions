@@ -1,5 +1,5 @@
 {
-    "version": "1.0.5",
-    "release_date": { "day": 11, "month": 7, "year": 2026 },
-    "notes": "Job-scope enforcement overhaul (pickup/swap/craft/creation bypasses closed, gang support, framework rebind fix), JSON locales in 8 languages, ox_lib logger support, and the Discord webhook URL moved to a server.cfg convar."
+    "version": "1.0.6",
+    "release_date": { "day": 19, "month": 7, "year": 2026 },
+    "notes": "nex_itemwhitelist is no longer maintained - it has been rebranded to nexdev_itemwhitelist under NEX.dev. Check your Cfx.re portal (Granted Assets) for the new nexdev_itemwhitelist asset and switch to it to keep receiving updates."
 }

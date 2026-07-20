@@ -1,5 +1,5 @@
 {
-    "version": "1.0.0",
-    "release_date": { "day": 16, "month": 7, "year": 2026 },
-    "notes": "On-screen watermark with an in-game editor: badge or logo-only display, drag-to-move, server-wide sync, and auto-hide for pause menu, inventory and txAdmin announcements."
+    "version": "1.0.1",
+    "release_date": { "day": 19, "month": 7, "year": 2026 },
+    "notes": "nex_watermark is no longer maintained - it has been rebranded to nexdev_watermark under NEX.dev. Check your Cfx.re portal (Granted Assets) for the new nexdev_watermark asset and switch to it to keep receiving updates."
 }

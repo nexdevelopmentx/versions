@@ -1,5 +1,5 @@
 {
-    "version": "1.0.8",
-    "release_date": { "day": 2, "month": 7, "year": 2026 },
-    "notes": "Store buttons now open Config.StoreURL through FiveM's native open-website prompt (real browser) instead of copying to the clipboard, with the menu staying open. The top bar shows the player's Discord avatar (fetched server-side, cached) and their FiveM account name instead of the character name."
+    "version": "1.0.9",
+    "release_date": { "day": 19, "month": 7, "year": 2026 },
+    "notes": "nex_donatorsystem is no longer maintained - it has been rebranded to nexdev_donatorsystem under NEX.dev. Check your Cfx.re portal (Granted Assets) for the new nexdev_donatorsystem asset and switch to it to keep receiving updates."
 }

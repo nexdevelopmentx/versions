@@ -1,5 +1,5 @@
 {
-    "version": "1.0.6",
-    "release_date": { "day": 6, "month": 6, "year": 2026 },
-    "notes": "UI polish pass: button glows and hover lifts no longer get clipped at panel edges, the admin header is icon-free, and the booth header only shows a logo when one is set (rendered bare so transparent assets look right). Escape still closes the menu; Backspace and backdrop clicks no longer dismiss it."
+    "version": "1.0.7",
+    "release_date": { "day": 19, "month": 7, "year": 2026 },
+    "notes": "nex_djbooth has been discontinued and no longer exists. It will receive no further updates or support."
 }

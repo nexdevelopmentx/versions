@@ -1,5 +1,5 @@
 {
-    "version": "1.0.0",
-    "release_date": { "day": 3, "month": 6, "year": 2026 },
-    "notes": "Initial release. Business management for ESX/QBCore/QBox: ownable businesses, manager UI, customer shops, registers, food ordering, ingredient shops, and setup tooling."
+    "version": "1.0.1",
+    "release_date": { "day": 19, "month": 7, "year": 2026 },
+    "notes": "nex_businesses has been discontinued and no longer exists. It will receive no further updates or support."
 }

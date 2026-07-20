@@ -1,5 +1,5 @@
 {
-    "version": "1.0.1",
-    "release_date": { "day": 2, "month": 7, "year": 2026 },
-    "notes": "Player list now shows Discord profile pictures (initials fallback), added a localized header subtitle, refined buttons to an outlined/tinted accent style so any accent colour looks clean, and fixed the accent colour on the player notification."
+    "version": "1.0.2",
+    "release_date": { "day": 19, "month": 7, "year": 2026 },
+    "notes": "nex_povrequest has been discontinued and no longer exists. It will receive no further updates or support."
 }

@@ -1,5 +1,5 @@
 {
-    "version": "1.0.0",
-    "release_date": { "day": 29, "month": 6, "year": 2026 },
-    "notes": "Initial release: admin-only peacetime menu with a Svelte UI, live server-wide combat restrictions, a configurable HUD indicator and toast notifications, JSON locales, and optional server-side Discord webhook logging."
+    "version": "1.0.1",
+    "release_date": { "day": 19, "month": 7, "year": 2026 },
+    "notes": "nex_peacetime has been discontinued and no longer exists. It will receive no further updates or support."
 }

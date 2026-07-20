@@ -1,5 +1,5 @@
 {
-    "version": "1.1.2",
-    "release_date": { "day": 16, "month": 7, "year": 2026 },
-    "notes": "Inline locale table replaced with a JSON locale system (English + Spanish) — the entire showroom, management and admin UI is now translatable."
+    "version": "1.1.3",
+    "release_date": { "day": 19, "month": 7, "year": 2026 },
+    "notes": "nex_dealerships is no longer maintained - it has been rebranded to nexdev_dealerships under NEX.dev. Check your Cfx.re portal (Granted Assets) for the new nexdev_dealerships asset and switch to it to keep receiving updates."
 }

@@ -1,5 +1,5 @@
 {
-    "version": "1.0.5",
-    "release_date": { "day": 17, "month": 7, "year": 2026 },
-    "notes": "Boarding UI Overhaul"
+    "version": "1.0.6",
+    "release_date": { "day": 19, "month": 7, "year": 2026 },
+    "notes": "nex_queue is no longer maintained - it has been rebranded to nexdev_queue under NEX.dev. Check your Cfx.re portal (Granted Assets) for the new nexdev_queue asset and switch to it to keep receiving updates."
 }
