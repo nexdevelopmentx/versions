@@ -1,5 +1,5 @@
 {
-    "version": "1.0.4",
-    "release_date": { "day": 16, "month": 7, "year": 2026 },
-    "notes": "Inline Config.Locale table replaced with a JSON locale system (English + Spanish); Config.Locale is now the language code."
+    "version": "1.0.0",
+    "release_date": { "day": 19, "month": 7, "year": 2026 },
+    "notes": "Initial release under the NEX.dev brand."
 }

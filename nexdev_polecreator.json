@@ -1,5 +1,0 @@
-{
-    "version": "1.0.3",
-    "release_date": { "day": 16, "month": 7, "year": 2026 },
-    "notes": "Full JSON locale system (English + Spanish) — menus, notifications and target labels are now translatable."
-}

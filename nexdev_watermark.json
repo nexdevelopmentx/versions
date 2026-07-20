@@ -1,5 +1,5 @@
 {
     "version": "1.0.0",
-    "release_date": { "day": 16, "month": 7, "year": 2026 },
-    "notes": "On-screen watermark with an in-game editor: badge or logo-only display, drag-to-move, server-wide sync, and auto-hide for pause menu, inventory and txAdmin announcements."
+    "release_date": { "day": 19, "month": 7, "year": 2026 },
+    "notes": "Initial release under the NEX.dev brand."
 }

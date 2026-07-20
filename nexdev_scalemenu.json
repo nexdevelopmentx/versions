@@ -1,5 +1,5 @@
 {
-    "version": "1.0.4",
-    "release_date": { "day": 11, "month": 7, "year": 2026 },
-    "notes": "Localization fixed: the menu now fully translates through locales/<code>.json (labels, presets, build names, notifications). Config simplified to locale = \"en\". Also includes the v1.0.3 shadow-teleport and hitbox fixes."
+    "version": "1.0.0",
+    "release_date": { "day": 19, "month": 7, "year": 2026 },
+    "notes": "Initial release under the NEX.dev brand."
 }

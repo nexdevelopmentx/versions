@@ -1,5 +1,5 @@
 {
-    "version": "1.0.4",
-    "release_date": { "day": 12, "month": 7, "year": 2026 },
-    "notes": "Fixed script errors and corrected invalid Joaat hashes."
+    "version": "1.0.0",
+    "release_date": { "day": 19, "month": 7, "year": 2026 },
+    "notes": "Initial release under the NEX.dev brand."
 }
