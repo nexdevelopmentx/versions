@@ -1,6 +1,6 @@
-# NEX Development | Versions
+# NEX.dev | Versions
 
-Public version manifests for NEX Development FiveM scripts.
+Public version manifests for NEX.dev's FiveM scripts.
 
 Each `nex_<script>.json` file is fetched at runtime by the script's
 server-side `version_check.lua` to detect available updates. When the
